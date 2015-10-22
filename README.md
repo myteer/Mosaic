@@ -5,7 +5,8 @@ The Ultimate JavaFX, Multi-split, Drag-n-Drop Layout Manager
 [![htm.java awesomeness](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://cogmission.ai)
 ***
 
-#### [On YouTube](https://youtu.be/eVH-Q85hqe0)
+### [On YouTube](https://youtu.be/eVH-Q85hqe0)
+
 
 # ![Demo](http://mindlab.ai/images/MosaicDemo.gif)
 
